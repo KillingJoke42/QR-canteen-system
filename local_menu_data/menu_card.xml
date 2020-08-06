@@ -1,0 +1,274 @@
+<menu>
+    <soups>
+        <item>
+            <dish>Sp Shorba</dish>
+            <price>135</price>
+        </item>
+        <item>
+            <dish>Hariyali Shorba</dish>
+            <price>135</price>
+        </item>
+        <item>
+            <dish>Veg Hot and Sour</dish>
+            <price>135</price>
+        </item>
+        <item>
+            <dish>Veg Sweet Corn</dish>
+            <price>135</price>
+        </item>
+        <item>
+            <dish>Veg Manchow</dish>
+            <price>135</price>
+        </item>
+        <item>
+            <dish>Veg Lemon Coriander</dish>
+            <price>135</price>
+        </item>
+    </soups>
+    <sides>
+        <item>
+            <dish>Cheese Masala Papad</dish>
+            <price>99</price>
+        </item>
+        <item>
+            <dish>Veg Masala Papad</dish>
+            <price>80</price>
+        </item>
+        <item>
+            <dish>Roasted/Fried Papad</dish>
+            <price>40</price>
+        </item>
+        <item>
+            <dish>Green Salad</dish>
+            <price>90</price>
+        </item>
+        <item>
+            <dish>Veg Raita</dish>
+            <price>70</price>
+        </item>
+    </sides>
+    <starters>
+        <item>
+            <dish>Sp Veg Platter</dish>
+            <price>595</price>
+        </item>
+        <item>
+            <dish>Veg. Malai Seekh</dish>
+            <price>315</price>
+        </item>
+        <item>
+            <dish>Hara Bhara Kebab</dish>
+            <price>315</price>
+        </item>
+        <item>
+            <dish>Paneer Tikka</dish>
+            <price>315</price>
+        </item>
+        <item>
+            <dish>Paneer Pahandi Tikka</dish>
+            <price>315</price>
+        </item>
+        <item>
+            <dish>Paneer Achari Tikka</dish>
+            <price>315</price>
+        </item>
+        <item>
+            <dish>Paneer Hariyali Tikka</dish>
+            <price>315</price>
+        </item>
+        <item>
+            <dish>Paneer Chilly Dry</dish>
+            <price>315</price>
+        </item>
+    </starters>
+    <main_course>
+        <item>
+            <dish>Kaju Curry</dish>
+            <price>350</price>
+        </item>
+        <item>
+            <dish>Cheese Butter Masala</dish>
+            <price>325</price>
+        </item>
+        <item>
+            <dish>Paneer Angara</dish>
+            <price>299</price>
+        </item>
+        <item>
+            <dish>Paneer Pasanda</dish>
+            <price>299</price>
+        </item>
+        <item>
+            <dish>Paneer Lababdar</dish>
+            <price>299</price>
+        </item>
+        <item>
+            <dish>Paneer Toofani</dish>
+            <price>299</price>
+        </item>
+        <item>
+            <dish>Paneer Butter Masala</dish>
+            <price>299</price>
+        </item>
+        <item>
+            <dish>Veg Jainpuri</dish>
+            <price>299</price>
+        </item>
+        <item>
+            <dish>Paneer Tikka Masala</dish>
+            <price>299</price>
+        </item>
+        <item>
+            <dish>Veg Kolhapuri</dish>
+            <price>299</price>
+        </item>
+        <item>
+            <dish>Veg Handi</dish>
+            <price>299</price>
+        </item>
+        <item>
+            <dish>Veg Makhanwala</dish>
+            <price>299</price>
+        </item>
+        <item>
+            <dish>Veg Seekh Masala</dish>
+            <price>299</price>
+        </item>
+        <item>
+            <dish>Dal Fry</dish>
+            <price>200</price>
+        </item>
+        <item>
+            <dish>Dal Tadka</dish>
+            <price>225</price>
+        </item>
+        <item>
+            <dish>Dal Lasuni Tadka</dish>
+            <price>225</price>
+        </item>
+    </main_course>
+    <roti>
+        <item>
+            <dish>Plain Roti</dish>
+            <price>40</price>
+        </item>
+        <item>
+            <dish>Butter Roti</dish>
+            <price>45</price>
+        </item>
+        <item>
+            <dish>Plain Naan</dish>
+            <price>50</price>
+        </item>
+        <item>
+            <dish>Butter Naan</dish>
+            <price>55</price>
+        </item>
+        <item>
+            <dish>Cheese Garlic Naan</dish>
+            <price>120</price>
+        </item>
+        <item>
+            <dish>Cheese Naan</dish>
+            <price>110</price>
+        </item>
+        <item>
+            <dish>Garlic Naan</dish>
+            <price>90</price>
+        </item>
+        <item>
+            <dish>Rumali Roti</dish>
+            <price>100</price>
+        </item>
+        <item>
+            <dish>Laccha Paratha</dish>
+            <price>80</price>
+        </item>
+        <item>
+            <dish>Kulcha</dish>
+            <price>80</price>
+        </item>
+        <item>
+            <dish>Pyaz Mirch Ka Kulcha</dish>
+            <price>80</price>
+        </item>
+    </roti>
+    <biryani>
+        <item>
+            <dish>Veg Dum Biryani</dish>
+            <price>300</price>
+        </item>
+        <item>
+            <dish>Veg Hydrabadi Dum Biryani</dish>
+            <price>300</price>
+        </item>
+        <item>
+            <dish>Veg Fried Rice</dish>
+            <price>300</price>
+        </item>
+        <item>
+            <dish>Veg Schezwan Fried Rice</dish>
+            <price>300</price>
+        </item>
+        <item>
+            <dish>Veg Pulav</dish>
+            <price>300</price>
+        </item>
+        <item>
+            <dish>Zeera Rice</dish>
+            <price>120</price>
+        </item>
+        <item>
+            <dish>Plain Rice</dish>
+            <price>100</price>
+        </item>
+    </biryani>
+    <desert>
+        <item>
+            <dish>Sizzling Brownie</dish>
+            <price>250</price>
+        </item>
+        <item>
+            <dish>Ice Cream</dish>
+            <price>80</price>
+        </item>
+        <item>
+            <dish>Ice Cream Sauce</dish>
+            <price>20</price>
+        </item>
+        <item>
+            <dish>Gulab Jamun</dish>
+            <price>80</price>
+        </item>
+        <item>
+            <dish>Gulab Jamun and Ice Cream</dish>
+            <price>120</price>
+        </item>
+    </desert>
+    <drinks>
+        <item>
+            <dish>Fresh Lime Soda</dish>
+            <price>99</price>
+        </item>
+        <item>
+            <dish>Lassi</dish>
+            <price>99</price>
+        </item>
+        <item>
+            <dish>Chaas</dish>
+            <price>50</price>
+        </item>
+        <item>
+            <dish>Masala Chaas</dish>
+            <price>55</price>
+        </item>
+        <item>
+            <dish>Soft Drink</dish>
+            <price>50</price>
+        </item>
+        <item>
+            <dish>Packaged Water</dish>
+            <price>20</price>
+        </item>
+    </drinks>
+</menu>

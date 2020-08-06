@@ -1,0 +1,274 @@
+{
+   "soups": [
+      {
+         "dish": "Sp Shorba",
+         "price": "135"
+      },
+      {
+         "dish": "Hariyali Shorba",
+         "price": "135"
+      },
+      {
+         "dish": "Veg Hot and Sour",
+         "price": "135"
+      },
+      {
+         "dish": "Veg Sweet Corn",
+         "price": "135"
+      },
+      {
+         "dish": "Veg Manchow",
+         "price": "135"
+      },
+      {
+         "dish": "Veg Lemon Coriander",
+         "price": "135"
+      }
+   ],
+   "sides": [
+      {
+         "dish": "Cheese Masala Papad",
+         "price": "99"
+      },
+      {
+         "dish": "Veg Masala Papad",
+         "price": "80"
+      },
+      {
+         "dish": "Roasted Papad",
+         "price": "40"
+      },
+      {
+         "dish": "Green Salad",
+         "price": "90"
+      },
+      {
+         "dish": "Veg Raita",
+         "price": "70"
+      }
+   ],
+   "starters": [
+      {
+         "dish": "Sp Veg Platter",
+         "price": "595"
+      },
+      {
+         "dish": "Veg. Malai Seekh",
+         "price": "315"
+      },
+      {
+         "dish": "Hara Bhara Kebab",
+         "price": "315"
+      },
+      {
+         "dish": "Paneer Tikka",
+         "price": "315"
+      },
+      {
+         "dish": "Paneer Pahandi Tikka",
+         "price": "315"
+      },
+      {
+         "dish": "Paneer Achari Tikka",
+         "price": "315"
+      },
+      {
+         "dish": "Paneer Hariyali Tikka",
+         "price": "315"
+      },
+      {
+         "dish": "Paneer Chilly Dry",
+         "price": "315"
+      }
+   ],
+   "main_course": [
+      {
+         "dish": "Kaju Curry",
+         "price": "350"
+      },
+      {
+         "dish": "Cheese Butter Masala",
+         "price": "325"
+      },
+      {
+         "dish": "Paneer Angara",
+         "price": "299"
+      },
+      {
+         "dish": "Paneer Pasanda",
+         "price": "299"
+      },
+      {
+         "dish": "Paneer Lababdar",
+         "price": "299"
+      },
+      {
+         "dish": "Paneer Toofani",
+         "price": "299"
+      },
+      {
+         "dish": "Paneer Butter Masala",
+         "price": "299"
+      },
+      {
+         "dish": "Veg Jainpuri",
+         "price": "299"
+      },
+      {
+         "dish": "Paneer Tikka Masala",
+         "price": "299"
+      },
+      {
+         "dish": "Veg Kolhapuri",
+         "price": "299"
+      },
+      {
+         "dish": "Veg Handi",
+         "price": "299"
+      },
+      {
+         "dish": "Veg Makhanwala",
+         "price": "299"
+      },
+      {
+         "dish": "Veg Seekh Masala",
+         "price": "299"
+      },
+      {
+         "dish": "Dal Fry",
+         "price": "200"
+      },
+      {
+         "dish": "Dal Tadka",
+         "price": "225"
+      },
+      {
+         "dish": "Dal Lasuni Tadka",
+         "price": "225"
+      }
+   ],
+   "roti": [
+      {
+         "dish": "Plain Roti",
+         "price": "40"
+      },
+      {
+         "dish": "Butter Roti",
+         "price": "45"
+      },
+      {
+         "dish": "Plain Naan",
+         "price": "50"
+      },
+      {
+         "dish": "Butter Naan",
+         "price": "55"
+      },
+      {
+         "dish": "Cheese Garlic Naan",
+         "price": "120"
+      },
+      {
+         "dish": "Cheese Naan",
+         "price": "110"
+      },
+      {
+         "dish": "Garlic Naan",
+         "price": "90"
+      },
+      {
+         "dish": "Rumali Roti",
+         "price": "100"
+      },
+      {
+         "dish": "Laccha Paratha",
+         "price": "80"
+      },
+      {
+         "dish": "Kulcha",
+         "price": "80"
+      },
+      {
+         "dish": "Pyaz Mirch Ka Kulcha",
+         "price": "80"
+      }
+   ],
+   "biryani": [
+      {
+         "dish": "Veg Dum Biryani",
+         "price": "300"
+      },
+      {
+         "dish": "Veg Hydrabadi Dum Biryani",
+         "price": "300"
+      },
+      {
+         "dish": "Veg Fried Rice",
+         "price": "300"
+      },
+      {
+         "dish": "Veg Schezwan Fried Rice",
+         "price": "300"
+      },
+      {
+         "dish": "Veg Pulav",
+         "price": "300"
+      },
+      {
+         "dish": "Zeera Rice",
+         "price": "120"
+      },
+      {
+         "dish": "Plain Rice",
+         "price": "100"
+      }
+   ],
+   "desert": [
+      {
+         "dish": "Sizzling Brownie",
+         "price": "250"
+      },
+      {
+         "dish": "Ice Cream",
+         "price": "80"
+      },
+      {
+         "dish": "Ice Cream Sauce",
+         "price": "20"
+      },
+      {
+         "dish": "Gulab Jamun",
+         "price": "80"
+      },
+      {
+         "dish": "Gulab Jamun and Ice Cream",
+         "price": "120"
+      }
+   ],
+   "drinks": [
+      {
+         "dish": "Fresh Lime Soda",
+         "price": "99"
+      },
+      {
+         "dish": "Lassi",
+         "price": "99"
+      },
+      {
+         "dish": "Chaas",
+         "price": "50"
+      },
+      {
+         "dish": "Masala Chaas",
+         "price": "55"
+      },
+      {
+         "dish": "Soft Drink",
+         "price": "50"
+      },
+      {
+         "dish": "Packaged Water",
+         "price": "20"
+      }
+   ]
+}
